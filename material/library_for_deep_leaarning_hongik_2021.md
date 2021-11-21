@@ -92,6 +92,13 @@
 
 <br>
 
+# 전체 평가
+
+- 문제 : [library_평가문제.ipynb](library/practice/library_평가문제.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/library/practice/library_평가문제.ipynb)
+- 풀이 : [library_평가문제_풀이.ipynb](library/practice/library_평가문제_풀이.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/library/practice/library_평가문제_풀이.ipynb)
+
+<br>
+
 # 데이터 처리
 
 - 데이터 처리 방법 요약 : [data_processing_concise.ipynb](library/data_processing_concise.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/library/data_processing_concise.ipynb)
