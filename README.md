@@ -1,11 +1,11 @@
 # Python 기반 AI활용 데이터 분석가 양성 과정
 
 - [Python 라이브러리를 활용한 데이터 분석 및 시각화](material/library_for_deep_leaarning.md)
-- 딥러닝 기초 - DNN, CNN, RNN 등
-- 딥러닝을 이용한 영상 데이터 분석
-- 시계열 금융데이터 분석
-- 딥러닝을 이용한 추천 서비스 분석
-
+- [딥러닝](material/deep_learning.md)
+    - 딥러닝 기초 - DNN, CNN, RNN 등
+    - 딥러닝을 이용한 영상 데이터 분석
+    - 시계열 금융데이터 분석
+    - 딥러닝을 이용한 추천 서비스 분석
 
 
 
