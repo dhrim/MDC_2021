@@ -15,14 +15,14 @@
 
 외부 실행파일 python을 구동해서 script.py를 실행하는 방식으로 진행한다.
 
-![without_jupyter](img/without_jupyter.png)
+![without_jupyter](../img/without_jupyter.png)
 
 jupyter의 경우 웹으로 보이는 ipynb(interactive python notebook)파일에 사용자가 수정한 사항이 Jupyter 서버에 전달되고 실행되어 그 결과가 다시 웹 화면에 보이게 된다.
 
 이때 실제 코드를 실행시키는 것은 Jupyter 서버가 있는 곳의 python이다.
 
 
-![with_jupyter](img/with_jupyter.png)
+![with_jupyter](../img/with_jupyter.png)
 
 
 ## 설치
