@@ -22,7 +22,7 @@
 
 - 딥러닝 개발 환경
 - 기본 linux 명령의 이해와 실습 : [linux.md](../material/linux.md)
-- jupyter와 colab 이해 : [jupyter_and_colab.md](./material/env/jupyter_and_colab.md)
+- jupyter와 colab 이해 : [jupyter_and_colab.md](../material/env/jupyter_and_colab.md)
 
 
 <br>
