@@ -1,10 +1,6 @@
-# 개발 환경
+# Jupyter & Colab
 
-
-
-- Jupyter
-
-- Colab
+-----------
 
 
 
