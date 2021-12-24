@@ -43,8 +43,8 @@
     - 데이터 수와 성능
     - 다양한 입출력
     - callback : [dnn_in_keras_callback.ipynb](../material/deep_learning/dnn_in_keras_callback.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/dnn_in_keras_callback.ipynb)
-- overfitting 처리 : [dnn_in_keras_overfitting.ipynb](./material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/dnn_in_keras_overfitting.ipynb)
-- custom data generator : [custom_data_generator.ipynb](./material/deep_learning/custom_data_generator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/custom_data_generator.ipynb)
+    - overfitting 처리 : [dnn_in_keras_overfitting.ipynb](./material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/dnn_in_keras_overfitting.ipynb)
+    - custom data generator : [custom_data_generator.ipynb](./material/deep_learning/custom_data_generator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/custom_data_generator.ipynb)
 
 - [Keras Howto 모음](https://github.com/dhrim/keras_howto_2021)
 
