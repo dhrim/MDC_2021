@@ -48,10 +48,17 @@
 
 - [Keras Howto 모음](https://github.com/dhrim/keras_howto_2021)
 
+<br>
+
+# TensorFlow Dataset
+
+    - Dataset : [tensorflow_data_tfds.ipynb](./material/deep_learning/tensorflow_data_tfds.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/tensorflow_data_tfds.ipynb)
+    - image : [tensorflow_data_image.ipynb](./material/deep_learning/tensorflow_data_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/tensorflow_data_image.ipynb)
+
 
 <br>
 
-## DNN, CNN
+# DNN, CNN
 
 - 분류기로서의 DNN
     - 속성 데이터 IRIS 분류 실습 : [dnn_iris_classification.ipynb](./material/deep_learning/dnn_iris_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/dnn_iris_classification.ipynb)

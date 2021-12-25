@@ -37,6 +37,9 @@
     - ~~Dacon Wine classifcation 추가~~
     - 실시간 Image classification 추가
     - 실시간 Image Regression 추가
+    - ~~tfds 추가~~
+    - ~~tfds image 추가~~
+    - ~~모델 그리기~~
     - NLP
       - ~~Bert 한글 분류 추가~~
       - ~~Bert 한글 예측 추가~~
@@ -74,6 +77,7 @@
           - ~~단어열 예측~~
           - Bert 사용 분류
           - Bert 사용 예측
+          
 
 - 정리
     - 사용하지 않는 dnn_in_keras_xxx.ipynb 삭제
