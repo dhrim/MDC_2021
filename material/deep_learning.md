@@ -52,8 +52,8 @@
 
 # TensorFlow Dataset
 
-    - Dataset : [tensorflow_data_tfds.ipynb](./material/deep_learning/tensorflow_data_tfds.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/tensorflow_data_tfds.ipynb)
-    - image : [tensorflow_data_image.ipynb](./material/deep_learning/tensorflow_data_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/tensorflow_data_image.ipynb)
+- Dataset : [tensorflow_data_tfds.ipynb](./material/deep_learning/tensorflow_data_tfds.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/tensorflow_data_tfds.ipynb)
+- image : [tensorflow_data_image.ipynb](./material/deep_learning/tensorflow_data_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/tensorflow_data_image.ipynb)
 
 
 <br>
