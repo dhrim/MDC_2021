@@ -81,10 +81,10 @@
 
 - 전이학습
     [VGG16_classification_and_cumtom_data_training.ipynb](./material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
-
     - 커스텀 데이터 VGG 데이터 분류 실습 : [flowers.zip](./deep_learning/data/flowers.zip)
         - [practice_custom_image_classification.ipynb](./material/deep_learning/practice_custom_image_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/practice_custom_image_classification.ipynb)
         - [real_practice_glaucoma_classification.ipynb](./material/deep_learning/real_practice_glaucoma_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/real_practice_glaucoma_classification.ipynb)
+    - 영상 데이터 예측 : [cat_with_glasses.ipynb](./material/deep_learning/cat_with_glasses.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/cat_with_glasses.ipynb)
 
 - GradCAM : [grad_cam.ipynb](./material/deep_learning/grad_cam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/grad_cam.ipynb)
 
@@ -118,7 +118,7 @@
 
 <br>
 
-# 영상 데이터 실습
+# 기타 영상 데이터 작업
 
 - 물체 탐지
    - 물체 탐지의 이해
@@ -127,7 +127,6 @@
 - 얼굴 인식 : [Face_Recognition.ipynb](./material/deep_learning/Face_Recognition.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/Face_Recognition.ipynb)
 - 포즈 추출 : [open_pose_using_template.ipynb](material/deep_learning/open_pose_using_template.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/open_pose_using_template.ipynb)
 - web cam + colab 실시간 포즈 추출 : [tf_pose_estimation_with_webcam.ipynb](material/deep_learning/tf_pose_estimation_with_webcam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/tf_pose_estimation_with_webcam.ipynb)
-- 영상 데이터 예측 : [cat_with_glasses.ipynb](./material/deep_learning/cat_with_glasses.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/cat_with_glasses.ipynb)
 
 
 - 얼굴 인식
@@ -252,8 +251,15 @@
 # 기타 실습
 
 - 알파고 이해하기 : [understanding_ahphago.pptx](./material/deep_learning/understanding_ahphago.pptx)
-
 - AUC 그리기 :  [draw_auc_with_mnist_cnn.ipynb](./material/deep_learning/draw_auc_with_mnist_cnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/draw_auc_with_mnist_cnn.ipynb)
+
+
+<br>
+
+# Kaggle 데이터
+
+- Kaggle x-ray 폐렴 분류 : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+- Kaggle 고양이 강아지 분류 : https://www.kaggle.com/tongpython/cat-and-dog
 
 
 <br>
