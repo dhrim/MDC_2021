@@ -247,7 +247,7 @@
 # 기타 실습
 
 - 알파고 이해하기 : [understanding_ahphago.pptx](./material/deep_learning/understanding_ahphago.pptx)
-- AUC 그리기 :  [draw_auc_with_mnist_cnn.ipynb](./material/deep_learning/draw_auc_with_mnist_cnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/draw_auc_with_mnist_cnn.ipynb)
+- ROC, AUC, Confusion Matrix 그리기 :  [roc_auc_confusion_matric.ipynb](./material/deep_learning/roc_auc_confusion_matric.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/roc_auc_confusion_matric.ipynb)
 
 - 영상 분류
     - 화재 영상 분류 : [fire_scene_classification.ipynb](./material/deep_learning/fire_scene_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/fire_scene_classification.ipynb)    
