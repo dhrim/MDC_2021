@@ -110,14 +110,6 @@
 
 <br>
 
-# 속성 데이터 실습
-
-- 속성 데이터
-    - 심리설문 데이터 분류 : [real_practice_psychologial_test_classification.ipynb](material/deep_learning/real_practice_psychologial_test_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/real_practice_psychologial_test_classification.ipynb)
-
-
-<br>
-
 # 기타 영상 데이터 작업
 
 - 물체 탐지
@@ -229,6 +221,12 @@
 
 <br>
 
+# 기타 howto
+- multi-label classification : [multi_label_classificaiton.ipynb](./material/deep_learning/multi_label_classificaiton.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/multi_label_classificaiton.ipynb)
+- ROC, AUC, Confusion Matrix 그리기 :  [roc_auc_confusion_matric.ipynb](./material/deep_learning/roc_auc_confusion_matric.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/roc_auc_confusion_matric.ipynb)
+
+<br>
+
 # 성능 개선
 
 - 성능 개선 개요 : [deep_learning_intro.pptx](./material/deep_learning/deep_learning_intro.pptx)
@@ -244,16 +242,25 @@
 
 <br>
 
-# 기타 실습
+# 기타
 
 - 알파고 이해하기 : [understanding_ahphago.pptx](./material/deep_learning/understanding_ahphago.pptx)
-- ROC, AUC, Confusion Matrix 그리기 :  [roc_auc_confusion_matric.ipynb](./material/deep_learning/roc_auc_confusion_matric.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/roc_auc_confusion_matric.ipynb)
 
-- 영상 분류
+<br>
+
+# 기타 실습
+
+- 영상 데이터
     - 화재 영상 분류 : [fire_scene_classification.ipynb](./material/deep_learning/fire_scene_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/fire_scene_classification.ipynb)    
     - wafer map 영상 분류 : [real_practice_classify_semiconductor_wafermap.ipynb](material/deep_learning/real_practice_classify_semiconductor_wafermap.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/real_practice_classify_semiconductor_wafermap.ipynb)
     - 엔진 블레이드 영상 분류 : [engine_blade_classification.ipynb](material/deep_learning/engine_blade_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/engine_blade_classification.ipynb)
 
+
+- 속성 데이터
+    - 심리설문 데이터 분류 : [real_practice_psychologial_test_classification.ipynb](material/deep_learning/real_practice_psychologial_test_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/real_practice_psychologial_test_classification.ipynb)
+
+
+<br>
 
 <br>
 
