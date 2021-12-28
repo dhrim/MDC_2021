@@ -132,10 +132,6 @@
 - 얼굴 인식
     - 얼굴 위치 탐지 실습 : [track_faces_on_video_realtime.ipynb](./material/deep_learning/track_faces_on_video_realtime.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/track_faces_on_video_realtime.ipynb)
     - 얼굴 감정 분류 실습 : [face_emotion_classification.ipynb](./material/deep_learning/face_emotion_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/face_emotion_classification.ipynb)
-    
-- 화재 영상 분류 : [fire_scene_classification.ipynb](./material/deep_learning/fire_scene_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/fire_scene_classification.ipynb)    
-- wafer map 영상 분류 : [real_practice_classify_semiconductor_wafermap.ipynb](material/deep_learning/real_practice_classify_semiconductor_wafermap.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/real_practice_classify_semiconductor_wafermap.ipynb)
-- 엔진 블레이드 영상 분류 : [engine_blade_classification.ipynb](material/deep_learning/engine_blade_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/engine_blade_classification.ipynb)
 - 스타일 변환 : https://www.tensorflow.org/tutorials/generative/style_transfer?hl=ko
 
 
@@ -253,13 +249,14 @@
 - 알파고 이해하기 : [understanding_ahphago.pptx](./material/deep_learning/understanding_ahphago.pptx)
 - AUC 그리기 :  [draw_auc_with_mnist_cnn.ipynb](./material/deep_learning/draw_auc_with_mnist_cnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/draw_auc_with_mnist_cnn.ipynb)
 
+- 영상 분류
+    - 화재 영상 분류 : [fire_scene_classification.ipynb](./material/deep_learning/fire_scene_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/fire_scene_classification.ipynb)    
+    - wafer map 영상 분류 : [real_practice_classify_semiconductor_wafermap.ipynb](material/deep_learning/real_practice_classify_semiconductor_wafermap.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/real_practice_classify_semiconductor_wafermap.ipynb)
+    - 엔진 블레이드 영상 분류 : [engine_blade_classification.ipynb](material/deep_learning/engine_blade_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/engine_blade_classification.ipynb)
+
 
 <br>
 
-# Kaggle 데이터
-
-- Kaggle x-ray 폐렴 분류 : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
-- Kaggle 고양이 강아지 분류 : https://www.kaggle.com/tongpython/cat-and-dog
 
 
 <br>
@@ -269,6 +266,9 @@
 - Dacon 데이터
     - 글자에 숨겨진 MNIST 영상 분류 : [classification_hidden_mnist_in_lettern.ipynb](material/deep_learning/classification_hidden_mnist_in_lettern.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/classification_hidden_mnist_in_lettern.ipynb)
     - 와인 속성 데이타 품질 분류 : [classification_wine_quality.ipynb](material/deep_learning/classification_wine_quality.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/classification_wine_quality.ipynb)
+- Kaggle 데이터
+    - Kaggle x-ray 폐렴 분류 : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+    - Kaggle 고양이 강아지 분류 : https://www.kaggle.com/tongpython/cat-and-dog
 
 
 <br>
