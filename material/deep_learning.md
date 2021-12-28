@@ -223,7 +223,9 @@
 
 # 기타 howto
 - multi-label classification : [multi_label_classificaiton.ipynb](./material/deep_learning/multi_label_classificaiton.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/multi_label_classificaiton.ipynb)
-- ROC, AUC, Confusion Matrix 그리기 :  [roc_auc_confusion_matric.ipynb](./material/deep_learning/roc_auc_confusion_matric.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/roc_auc_confusion_matric.ipynb)
+- ROC, AUC, Confusion Matrix 그리기 : [roc_auc_confusion_matric.ipynb](./material/deep_learning/roc_auc_confusion_matric.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/roc_auc_confusion_matric.ipynb)
+- cross validation : [cross_validation.ipynb](./material/deep_learning/cross_validation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/cross_validation.ipynb)
+
 
 <br>
 
