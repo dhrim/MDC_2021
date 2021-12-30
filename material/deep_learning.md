@@ -7,7 +7,12 @@
 
 <br>
 
-# 커리큘럼
+# 실습 자료들
+
+[practive](../material/deep_learning/practice)
+
+
+<br>
 
 # 인공지능의 이해
 - 인공지능 개념 및 동작 원리의 이해 : [deep_learning_intro.pptx](../material/deep_learning/deep_learning_intro.pptx)
