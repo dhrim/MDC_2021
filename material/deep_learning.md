@@ -9,7 +9,7 @@
 
 # 실습 자료들
 
-[practive](../material/deep_learning/practice)
+[practice](../material/deep_learning/practice)
 
 
 <br>
