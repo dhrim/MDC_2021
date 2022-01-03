@@ -169,9 +169,9 @@ https://www.tensorflow.org/api_docs/python/tf/keras/regularizers
 - l2()
 
 ```
-from keras.regularizers import l1
-from keras.regularizers import l1_l2
-from keras.regularizers import l2
+from tensorflow.keras.regularizers import l1
+from tensorflow.keras.regularizers import l1_l2
+from tensorflow.keras.regularizers import l2
 
 Dense(..., kernel_regularizer=l2(0.1), bias_regularizer=l2(0.1), ...)
 ```
