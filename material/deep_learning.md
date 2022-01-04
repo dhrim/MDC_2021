@@ -109,10 +109,11 @@
 # 영상 분할
 
 - 영상 분할(Segementation)
-    - U-Net을 사용한 영상 분할 실습 : [unet_segementation.ipynb](../material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/unet_segementation.ipynb)
-    - M-Net을 사용한 영상 분할 실습 : [mnet_segementation.ipynb](../material/deep_learning/mnet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/mnet_segementation.ipynb)
-    - U-Net을 사용한 컬러 영상 분할 실습 : [unet_segementation_color_image.ipynb](../material/deep_learning/unet_segementation_color_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/unet_segementation_color_image.ipynb)
-    - U-Net을 사용한 다중 레이블 분할 실습 : [unet_segmentation_multi_label.ipynb](../material/deep_learning/unet_segmentation_multi_label.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/unet_segmentation_multi_label.ipynb)
+    - U-Net을 사용한 영상 분할 : [unet_segementation.ipynb](../material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/unet_segementation.ipynb)
+        - U-Net을 사용한 영상 분할 실습 : [unet_setmentation_practice.ipynb](../material/deep_learning/unet_setmentation_practice.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/unet_setmentation_practice.ipynb)
+    - M-Net을 사용한 영상 분할 : [mnet_segementation.ipynb](../material/deep_learning/mnet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/mnet_segementation.ipynb)
+    - U-Net을 사용한 컬러 영상 분할 : [unet_segementation_color_image.ipynb](../material/deep_learning/unet_segementation_color_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/unet_segementation_color_image.ipynb)
+    - U-Net을 사용한 다중 레이블 분할 : [unet_segmentation_multi_label.ipynb](../material/deep_learning/unet_segmentation_multi_label.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/unet_segmentation_multi_label.ipynb)
 
 <br>
 
