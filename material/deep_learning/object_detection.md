@@ -44,17 +44,7 @@ TensorFlow나 pythoh 기반이 아닌 c/c++로 구현된 Darknet을 기반으로
 
 ## Keras 사용
 
-python에서 Keras로 사용하려면 학습된 파일과 모델 설정을 가지고 변환해서 사용한다.
-
-다음 프로젝트가 이런 기능을 제공한다.
-
-https://github.com/qqwweee/keras-yolo3
-
-이 프로젝트를 사용하여 탐지 실행, 학습 등을 할 수 있다.
-
-<br>
-
-- 실습 자료 : [object_detection_yolo_keras.ipynb](object_detection_yolo_keras.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/object_detection_yolo_keras.ipynb)
+- 실습 자료 : [keras_yolov3.ipynb](keras_yolov3.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/keras_yolov3.ipynb)
 
 
 <br>
