@@ -71,11 +71,3 @@ TensorFlow나 pythoh 기반이 아닌 c/c++로 구현된 Darknet을 기반으로
 - https://github.com/tzutalin/labelImg
 
 <br>
-
-
-# RetinaNet
-
-실습 자료 : [object_detection_retinanet.ipynb](object_detection_retinanet.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/object_detection_retinanet.ipynb)
-
-
-<br>
