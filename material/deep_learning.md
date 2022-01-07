@@ -155,6 +155,14 @@
     - RNN을 사용한 덧셈 결과 분류 : [rnn_addition_text_classication.ipynb](../material/deep_learning/rnn_addition_text_classication.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/rnn_addition_text_classication.ipynb)     
     - Bert를 사용한 다음 단어 예측 : [next_word_prediction.ipynb](../material/deep_learning/next_word_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/next_word_prediction.ipynb)
 
+<br>
+
+# 시계열 데이터
+
+- 시계열 데이터 처리 : [treating_sequence_data.ipynb](material/deep_learning/treating_sequence_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/treating_sequence_data.ipynb)
+- 시계열 데이터 예측 : [wheather_forecasting_using_TimeseriesGenerator.ipynb](material/deep_learning/wheather_forecasting_using_TimeseriesGenerator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/wheather_forecasting_using_TimeseriesGenerator.ipynb)
+- 시계열 데이터 분류 : [real_practice_classify_semiconductor_time_series_data.ipynb](material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb)
+
 
 <br>
 
@@ -168,21 +176,6 @@
     - Bert를 사용한 한글 문장 간 관계 분류, 커스텀 vocab : [korean_sentence_relation_classification_with_bert_with_custom_vocab.ipynb](../material/deep_learning/korean_sentence_relation_classification_with_bert_with_custom_vocab.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/korean_sentence_relation_classification_with_bert_with_custom_vocab.ipynb)
     - Bert를 사용한 괄호 단어 예측 : [korean_mask_completion_with_bert.ipynb](../material/deep_learning/korean_mask_completion_with_bert.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/korean_mask_completion_with_bert.ipynb) 
 
-
-<br>
-
-# 기타 실습
-
-- 시계열 데이터
-    - 시계열 데이터 처리 : [treating_sequence_data.ipynb](material/deep_learning/treating_sequence_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/treating_sequence_data.ipynb)
-    - 시계열 데이터 예측 : [wheather_forecasting_using_TimeseriesGenerator.ipynb](material/deep_learning/wheather_forecasting_using_TimeseriesGenerator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/wheather_forecasting_using_TimeseriesGenerator.ipynb)
-    - 시계열 데이터 분류 : [real_practice_classify_semiconductor_time_series_data.ipynb](material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb)
-    - 곡물 데이터 예측 : [financial_data_predict_commodity_price.ipynb](material/deep_learning/financial_data_predict_commodity_price.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/financial_data_predict_commodity_price.ipynb) 
-    - 구글 주가 분류 : [financial_data_classify_stock_price.ipynb](material/deep_learning/financial_data_classify_stock_price.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/financial_data_classify_stock_price.ipynb) 
-
-- 이상 탐지
-    - 카드 사기 탐지 : [financial_data_detect_fraud_card.ipynb](material/deep_learning/financial_data_detect_fraud_card.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/financial_data_detect_fraud_card.ipynb) 
-    - fashion MNIST 이상 탐지 : [anomaly_detection_fahsion_mnist.ipynb](material/deep_learning/anomaly_detection_fahsion_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/anomaly_detection_fahsion_mnist.ipynb) 
 
 <br>
 
@@ -274,17 +267,23 @@
 
 # 기타 실습
 
-- 영상 데이터
+- 영상 데이터 분류
     - 화재 영상 분류 : [fire_scene_classification.ipynb](../material/deep_learning/fire_scene_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/fire_scene_classification.ipynb)    
     - wafer map 영상 분류 : [real_practice_classify_semiconductor_wafermap.ipynb](material/deep_learning/real_practice_classify_semiconductor_wafermap.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/real_practice_classify_semiconductor_wafermap.ipynb)
     - 엔진 블레이드 영상 분류 : [engine_blade_classification.ipynb](material/deep_learning/engine_blade_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/engine_blade_classification.ipynb)
 
 
-- 속성 데이터
+- 속성 데이터 분류
     - 심리설문 데이터 분류 : [real_practice_psychologial_test_classification.ipynb](material/deep_learning/real_practice_psychologial_test_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/real_practice_psychologial_test_classification.ipynb)
 
 
-<br>
+- 시계열 데이터
+    - 곡물 데이터 예측 : [financial_data_predict_commodity_price.ipynb](material/deep_learning/financial_data_predict_commodity_price.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/financial_data_predict_commodity_price.ipynb) 
+    - 구글 주가 분류 : [financial_data_classify_stock_price.ipynb](material/deep_learning/financial_data_classify_stock_price.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/financial_data_classify_stock_price.ipynb) 
+
+- 이상 탐지
+    - 카드 사기 탐지 : [financial_data_detect_fraud_card.ipynb](material/deep_learning/financial_data_detect_fraud_card.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/financial_data_detect_fraud_card.ipynb) 
+    - fashion MNIST 이상 탐지 : [anomaly_detection_fahsion_mnist.ipynb](material/deep_learning/anomaly_detection_fahsion_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/anomaly_detection_fahsion_mnist.ipynb) 
 
 <br>
 
