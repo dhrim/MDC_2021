@@ -182,6 +182,7 @@
 
 - 이상 탐지
     - 카드 사기 탐지 : [financial_data_detect_fraud_card.ipynb](material/deep_learning/financial_data_detect_fraud_card.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/financial_data_detect_fraud_card.ipynb) 
+    - fashion MNIST 이상 탐지 : [anomaly_detection_fahsion_mnist.ipynb](material/deep_learning/anomaly_detection_fahsion_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/anomaly_detection_fahsion_mnist.ipynb) 
 
 <br>
 
