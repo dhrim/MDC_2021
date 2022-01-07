@@ -55,11 +55,18 @@
 
 <br>
 
-# TensorFlow Dataset
+# Data
+
+## TensorFlow Dataset TFDS
 
 - Dataset : [tensorflow_data_tfds.ipynb](../material/deep_learning/tensorflow_data_tfds.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/tensorflow_data_tfds.ipynb)
 - image : [tensorflow_data_image.ipynb](../material/deep_learning/tensorflow_data_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/tensorflow_data_image.ipynb)
 
+<br>
+
+## Keras Sequence data generator
+
+- 곡물 순차 데이터 예측 : [financial_data_predict_commodity_price.ipynb](material/deep_learning/financial_data_predict_commodity_price.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/financial_data_predict_commodity_price.ipynb) 
 
 <br>
 
@@ -170,7 +177,7 @@
     - 시계열 데이터 처리 : [treating_sequence_data.ipynb](material/deep_learning/treating_sequence_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/treating_sequence_data.ipynb)
     - 시계열 데이터 예측 : [wheather_forecasting_using_TimeseriesGenerator.ipynb](material/deep_learning/wheather_forecasting_using_TimeseriesGenerator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/wheather_forecasting_using_TimeseriesGenerator.ipynb)
     - 시계열 데이터 분류 : [real_practice_classify_semiconductor_time_series_data.ipynb](material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb)
-
+    - 곡물 데이터 예측 : [financial_data_predict_commodity_price.ipynb](material/deep_learning/financial_data_predict_commodity_price.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/financial_data_predict_commodity_price.ipynb) 
 
 <br>
 
