@@ -171,7 +171,7 @@
 
 <br>
 
-# 시계열 데이터 실습
+# 기타 실습
 
 - 시계열 데이터
     - 시계열 데이터 처리 : [treating_sequence_data.ipynb](material/deep_learning/treating_sequence_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/treating_sequence_data.ipynb)
@@ -179,6 +179,10 @@
     - 시계열 데이터 분류 : [real_practice_classify_semiconductor_time_series_data.ipynb](material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb)
     - 곡물 데이터 예측 : [financial_data_predict_commodity_price.ipynb](material/deep_learning/financial_data_predict_commodity_price.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/financial_data_predict_commodity_price.ipynb) 
     - 구글 주가 분류 : [financial_data_classify_stock_price.ipynb](material/deep_learning/financial_data_classify_stock_price.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/financial_data_classify_stock_price.ipynb) 
+
+- 이상 탐지
+    - 카드 사기 탐지 : [financial_data_detect_fraud_card.ipynb](material/deep_learning/financial_data_detect_fraud_card.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/financial_data_detect_fraud_card.ipynb) 
+
 <br>
 
 # GAN
