@@ -13,6 +13,7 @@
 - 추가
     - ~~PCA~~
     - ~~t-SNE~~
+    - ~~Tensorboard in Colba~~
     - ~~kfold cross validation~~
     - ROC,AUC
         - FPR-TPR

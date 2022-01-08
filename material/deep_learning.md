@@ -243,6 +243,7 @@
 - 앙상블 : [ensemble.ipynb](../material/deep_learning/ensemble.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/ensemble.ipynb) 
 - ImageDataGenerator를 사용한 데이터 증강 : [data_augmentation_using_ImageDadtaGenerator.ipynb](../material/deep_learning/data_augmentation_using_ImageDadtaGenerator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/data_augmentation_using_ImageDadtaGenerator.ipynb) 
 - PCA, T-SNE : [PCA_TSNE.ipynb](../material/deep_learning/PCA_TSNE.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/PCA_TSNE.ipynb) 
+- Colab에서 TensorBoard 사용 : [tensorboard_in_colab.ipynb](../material/deep_learning/tensorboard_in_colab.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/tensorboard_in_colab.ipynb) 
 
 <br>
 
