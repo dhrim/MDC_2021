@@ -11,8 +11,8 @@
     - 전이학습 Template. category count 자동으로.
     - word2vec을 TFhub 
 - 추가
-    - PCA
-    - t-SNE
+    - ~~PCA~~
+    - ~~t-SNE~~
     - ~~kfold cross validation~~
     - ROC,AUC
         - FPR-TPR
