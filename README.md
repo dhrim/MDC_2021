@@ -7,7 +7,13 @@
     - 시계열 금융데이터 분석
     - 딥러닝을 이용한 추천 서비스 분석
 
+<br>
 
+# 실습한 자료들
+
+    [material/deep_learning/practice](material/deep_learning/practice)
+
+<br>
 
 # 딥러닝 활용을 위한 지식 구조
 
