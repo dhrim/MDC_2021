@@ -11,7 +11,7 @@
 
 # 실습한 자료들
 
-    [material/deep_learning/practice](material/deep_learning/practice)
+[material/deep_learning/practice](material/deep_learning/practice/)
 
 <br>
 
