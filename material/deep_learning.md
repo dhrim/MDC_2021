@@ -17,17 +17,16 @@
 # 실습 데이터들
 
 - 속성 데이터
-    - 펭귄 몸부게 예측 문제 : https://dacon.io/competitions/official/235862/data, 펭귄 속성 값들로 몸무게를 예측, 단순 속성 예측 문제
-    - 심장 질환 예측 : https://dacon.io/competitions/official/235848/data, 심장 관련 속성들로 질병 유무 분류, 단순 속성 분류 문제
+    - 신용카드 연체 예측 : https://dacon.io/competitions/official/235713/data, 카드 사용자의 정보를 가지고 credit을 분류, 단순 속성 분류 문제
     - 주차 수요 예측 : https://dacon.io/competitions/official/235745/data, 아파트 단지의 속성 데이터로 주차수 예측, 단순 속성 예측 문제
-    - 구내 식당 식수 예측, 사내 속성 데이터로 구내 식수 예측, 단순 속성 예측 문제 
+    - 구내 식당 식수 예측 : https://dacon.io/competitions/official/235743/data, 사내 속성 데이터로 구내 식수 예측, 단순 속성 예측 문제 
 - 영상 데이터
     - 생육 기간 예측 : https://dacon.io/competitions/official/235851/data, 시간에 따른 작물의 사진으로 학습.2개의 사진에 대해 경과한 일자를 예측, 2개의 영상을 입력으로 경과 시간 값 예측 문제
     - 병변 검출 : https://dacon.io/competitions/official/235855/data, 이미지에서 특정 대상 탐지., object detection 문제
     - 작물 병해 분류 : https://dacon.io/competitions/official/235842/data, 작물 영상으로 병해 분류, 단순 영상 분류 문제
 - 순차열 데이터
     - 주가 예측 : https://dacon.io/competitions/official/235857/data, 순차 데이터 주가 데이터를 사용하여 다음날 주가 예측, 단순 순차열 예측 문제
-    - 영어 음석 국적 분류, 음성 순차열에 대한 국적 분류, 단순 순차열 분류 문제
+    - 영어 음성 국적 분류 : https://dacon.io/competitions/official/235738/data 음성 순차열에 대한 국적 분류, 단순 순차열 분류 문제
 - 복합 데이터  
     - 작물 병해 진단 : https://dacon.io/competitions/official/235870/data, 영상과 환경 속성 순차열 데이터를 가지고 작물 종류, 작물 상태, 질병 피해 정도를 예측, 영상과 환경의 다른 타입 입력으로 3가지 종류의 분류 문제
 
