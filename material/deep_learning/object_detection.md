@@ -63,6 +63,7 @@ TensorFlow나 pythoh 기반이 아닌 c/c++로 구현된 Darknet을 기반으로
 - raccon 데이터 탐지 실행 : [face_detection_with_2_models.ipynb](face_detection_with_2_models.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/face_detection_with_2_models.ipynb)
 
 
+<br>
 
 ## 레이블링 방법
 
