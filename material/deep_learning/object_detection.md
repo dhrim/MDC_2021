@@ -58,6 +58,12 @@ TensorFlow나 pythoh 기반이 아닌 c/c++로 구현된 Darknet을 기반으로
 
 <br>
 
+## YOLO를 사용한 얼굴 인식
+
+- raccon 데이터 탐지 실행 : [face_detection_with_2_models.ipynb](face_detection_with_2_models.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/face_detection_with_2_models.ipynb)
+
+
+
 ## 레이블링 방법
 
 - 레이블링 가이드 by labelImg : [yolo_labeling_guide.pdf](yolo_labeling_guide.pdf)
