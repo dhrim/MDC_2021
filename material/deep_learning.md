@@ -327,6 +327,7 @@
 - Dacon 데이터
     - 글자에 숨겨진 MNIST 영상 분류 : [classification_hidden_mnist_in_lettern.ipynb](../material/deep_learning/classification_hidden_mnist_in_lettern.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/classification_hidden_mnist_in_lettern.ipynb)
     - 와인 속성 데이타 품질 분류 : [classification_wine_quality.ipynb](../material/deep_learning/classification_wine_quality.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/classification_wine_quality.ipynb)
+    - 식술 성장 기간 예측 : [predict_plant_growing_interval.ipynb](../material/deep_learning/predict_plant_growing_interval.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/predict_plant_growing_interval.ipynb) 
 - Kaggle 데이터
     - Kaggle x-ray 폐렴 분류 : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
     - Kaggle 고양이 강아지 분류 : https://www.kaggle.com/tongpython/cat-and-dog
