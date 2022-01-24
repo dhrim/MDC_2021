@@ -233,6 +233,11 @@
 
 <br>
 
+# 추천
+
+- 추천 시스템 : [recommendation.ipynb](../material/deep_learning/recommendation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/recommendation.ipynb) 
+
+<br>
 
 # Template
 
