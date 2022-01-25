@@ -275,6 +275,7 @@
 
 - 추천
     - TensorFlow Recommendations 템플릿 : [TFRS_recommendation_template.ipynb](../material/deep_learning/TFRS_recommendation_template.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/TFRS_recommendation_template.ipynb)
+    - 영상 검색 : [Image_retrieval.ipynb](../material/deep_learning/Image_retrieval.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/Image_retrieval.ipynb)
     - 실습 데이터
         - https://www.kaggle.com/c/instacart-market-basket-analysis/data
         - https://www.kaggle.com/niharika41298/netflix-visualizations-recommendation-eda/data?select=to_read.csv
