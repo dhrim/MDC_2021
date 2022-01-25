@@ -328,6 +328,8 @@
 - 속성 데이터 분류
     - 심리설문 데이터 분류 : [real_practice_psychologial_test_classification.ipynb](../material/deep_learning/real_practice_psychologial_test_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/real_practice_psychologial_test_classification.ipynb)
 
+- 소리 분류 : [classify_audio.ipynb](../material/deep_learning/classify_audio.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/classify_audio.ipynb)
+
 
 <br>
 
