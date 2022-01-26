@@ -236,10 +236,16 @@
 # 추천
 
 - 추천 시스템 소개 : [recommendation.ipynb](../material/deep_learning/recommendation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/recommendation.ipynb) 
-- 영상 검색 : [Image_retrieval.ipynb](../material/deep_learning/Image_retrieval.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/Image_retrieval.ipynb)
 - 실습 데이터
     - https://www.kaggle.com/c/instacart-market-basket-analysis/data
     - https://www.kaggle.com/niharika41298/netflix-visualizations-recommendation-eda/data?select=to_read.csv
+
+- 영상 검색
+    - 영상 검색 - CNN : [image_search_by_CNN.ipynb](../material/deep_learning/image_search_by_CNN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/image_search_by_CNN.ipynb)
+    - 영상 검색 - 샴 네크웤 : [image_search_by_siamese_network.ipynb](../material/deep_learning/image_search_by_siamese_network.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/image_search_by_siamese_network.ipynb)
+
+- 소리 검색
+
 
 <br>
 
