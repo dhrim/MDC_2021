@@ -245,6 +245,7 @@
     - 영상 검색 - 샴 네크웤 : [image_search_by_siamese_network.ipynb](../material/deep_learning/image_search_by_siamese_network.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/image_search_by_siamese_network.ipynb)
 
 - 소리 검색
+    - 소리 검색 : [sound_search.ipynb](../material/deep_learning/sound_search.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/sound_search.ipynb)
 
 
 <br>
