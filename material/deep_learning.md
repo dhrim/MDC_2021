@@ -244,6 +244,7 @@
     - 영상 검색 - by CNN : [image_search_by_CNN.ipynb](../material/deep_learning/image_search_by_CNN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/image_search_by_CNN.ipynb)
     - 영상 검색 - by Conv AutoEncoder : [image_search_by_ConvAutoEncoder.ipynb](../material/deep_learning/image_search_by_ConvAutoEncoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/image_search_by_ConvAutoEncoder.ipynb)    
     - 영상 검색 - by 샴 네크웤 : [image_search_by_siamese_network.ipynb](../material/deep_learning/image_search_by_siamese_network.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/image_search_by_siamese_network.ipynb)
+    - 실습 데이터 : BMW car data : http://ai.stanford.edu/~jkrause/car196/bmw10_release.tgz (10개 폴더에 이미지들)
 
 - 소리 검색
     - 소리 검색 - urban sound : [sound_search_urban_sound.ipynb](../material/deep_learning/sound_search_urban_sound.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/sound_search_urban_sound.ipynb)
