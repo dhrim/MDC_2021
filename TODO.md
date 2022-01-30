@@ -11,9 +11,10 @@
     - 전이학습 Template. category count 자동으로.
     - word2vec을 TFhub 
 - 추가
+    - folder split
     - ~~PCA~~
     - ~~t-SNE~~
-    - ~~Tensorboard in Colba~~
+    - ~~Tensorboard in Colab~~
     - ~~kfold cross validation~~
     - ROC,AUC
         - FPR-TPR
