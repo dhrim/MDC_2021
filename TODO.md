@@ -80,6 +80,7 @@
           - ~~단어열 예측~~
           - Bert 사용 분류
           - Bert 사용 예측
+      - sequence AutoEncoder : https://velog.io/@jaehyeong/Autoencoder%EC%99%80-LSTM-Autoencoder
           
 
 - 정리
