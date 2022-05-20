@@ -86,5 +86,6 @@
 - 정리
     - 사용하지 않는 dnn_in_keras_xxx.ipynb 삭제
     - ~~tensorflow_tutorial_xxx.ipynb 삭제~~
+    - remove legacy data_aug***.ipynb
 - 픽스
     - ~~tf-pose-estimation_with_webcam.ipynb 복원~~
