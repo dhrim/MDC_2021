@@ -178,7 +178,6 @@
 
 - 시계열 데이터 처리 : [treating_sequence_data.ipynb](../material/deep_learning/treating_sequence_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/treating_sequence_data.ipynb)
 - 시계열 데이터 예측 : [weather_forecasting.ipynb](../material/deep_learning/weather_forecasting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/weather_forecasting.ipynb)
-- 시계열 데이터 분류 : [real_practice_classify_semiconductor_time_series_data.ipynb](../material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb)
 
 
 <br>
@@ -337,6 +336,7 @@
 
 - 속성 데이터 분류
     - 심리설문 데이터 분류 : [real_practice_psychologial_test_classification.ipynb](../material/deep_learning/real_practice_psychologial_test_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/real_practice_psychologial_test_classification.ipynb)
+    - 반도체 데이터 분류 : [real_practice_classify_semiconductor_time_series_data.ipynb](../material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb)
 
 - 소리 분류 : [classify_audio.ipynb](../material/deep_learning/classify_audio.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/classify_audio.ipynb)
 
